@@ -214,5 +214,5 @@ Representa um veículo automotivo, armazenado na coleção **carros**.
 
 ---
 
-✍️ **Autor**: [Seu Nome]  
+✍️ **Autor**: [Leandro Sabino Sueoka]  
 📅 **Última atualização**: 2025
