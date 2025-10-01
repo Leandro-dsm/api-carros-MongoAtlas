@@ -1,4 +1,4 @@
-# 🚗 API de Carros
+se# 🚗 API de Carros
 
 Esta API fornece endpoints para gerenciar informações sobre carros.
 
@@ -214,5 +214,5 @@ Representa um veículo automotivo, armazenado na coleção **carros**.
 
 ---
 
-✍️ **Autor**: [Leandro Sabino Sueoka]  
+✍️ **Autor**: [Leandro,Yago,Filipe]  
 📅 **Última atualização**: 2025
