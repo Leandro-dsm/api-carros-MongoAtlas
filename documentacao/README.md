@@ -191,7 +191,7 @@ Representa um veículo automotivo, armazenado na coleção **carros**.
 - **Método**: `DELETE`  
 - **Descrição**: Remove um carro pelo ID.
 
-**Resposta 204 No Content**
+**Resposta 200 Carro Deletado com Sucesso**
 (Sem corpo de resposta)
 
 ---
