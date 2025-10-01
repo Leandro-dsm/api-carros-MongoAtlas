@@ -192,7 +192,6 @@ Representa um veículo automotivo, armazenado na coleção **carros**.
 - **Descrição**: Remove um carro pelo ID.
 
 **Resposta 200 Carro Deletado com Sucesso**
-(Sem corpo de resposta)
 
 ---
 
